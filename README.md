@@ -12,7 +12,7 @@
 <i>$${\color{#CDFF87}𝘤𝘩𝘦𝘤𝘬‎  𝘴𝘵𝘳𝘢𝘸𝘱𝘢𝘨𝘦‎  4‎ 𝘮𝘰𝘳𝘦}$$</i>
 
 
-<a href="https://cubsquel.straw.page/">straw                                                     <a href="https://cubsquel.atabook.org/">ata
+[straw](https://cubsquel.straw.page) ‎ ‎ ‎‎[ata](https://cubsquel.atabook.org/)
 
 
  ![](https://komarev.com/ghpvc/?username=your-github-cubsquel&label=cublings+++&&color=A8E500)
